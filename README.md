@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+💫 Hi, I'm Talha Ali<br>🚀 Aspiring Data Analyst | Excel • Power BI • SQL • Python<br>I'm a Data Analyst who enjoys turning raw, messy data into insights that are easy to understand and act on. I like the process of taking a spreadsheet or database full of numbers and shaping it into something that actually answers a question.<br><br>🎯 What I Do<br><br>📊 Clean and structure raw data for analysis<br>📈 Build interactive dashboards in Power BI and Tableau<br>🧮 Write SQL queries to pull and shape data from databases<br>🐍 Use Python for analysis and visualization<br>📉 Turn business questions into metrics people can trust<br><br><br>🛠️ Skills & Tools<br>🔹 Data Analytics & Visualization<br><br>Power BI (DAX, data modeling, dashboards)<br>Tableau<br>MS Excel (Advanced formulas, Pivot Tables, dashboards)<br><br>🔹 Programming & Libraries<br><br>Python<br>Pandas<br>NumPy<br>Matplotlib / Seaborn<br><br>🔹 Databases<br><br>SQL<br>SQLite / MySQL<br><br>🔹 Core Concepts<br><br>Data Cleaning & Preprocessing<br>Exploratory Data Analysis (EDA)<br>KPI Design & Dashboard Storytelling<br>Business Requirement Analysis<br><br><br>💡 What Motivates Me<br>I like data because it removes guesswork from decisions. Give me a messy dataset and a question, and I'll give you back a clear dashboard and the numbers that actually matter.<br><br>📫 Connect With Me<br><br>💼 LinkedIn: [https://www.linkedin.com/in/talhah-ali/]<br><br><br>⭐ One dataset at a time — cleaner, clearer, more useful. ⭐
 
-<!--
-**talhahkhan819-ai/talhahkhan819-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talhah-ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talhahkhan819@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=talhahkhan819-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=talhahkhan819-ai&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=talhahkhan819-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=talhahkhan819-ai&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
